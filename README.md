@@ -1,2 +1,2 @@
-# rest_api_dasar
-latihan membuat rest api
+# app_rest_api
+latihan rest api
